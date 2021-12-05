@@ -5,4 +5,4 @@ providing methods to authenticate the user, to store the user's property coodina
 The designs for the frontend were made in Adobe Illustrator and Figma. View designs in Figma here: 
 https://www.figma.com/file/xXAmficdthoSF0FFJ0nAZN/Aquila-Web-Designs?node-id=0%3A1
 
-The prototype was deployed via AWS Amplify. Use the Kovan Testnet try out the MVP here: https://dev279.d2f0hxnzawfvgd.amplifyapp.com/  
+The prototype was deployed via AWS Amplify. *IMPORTANT Use the Kovan Testnet try out the MVP here: https://dev279.d2f0hxnzawfvgd.amplifyapp.com/  
