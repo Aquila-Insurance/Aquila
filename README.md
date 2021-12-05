@@ -7,7 +7,7 @@ https://www.figma.com/file/xXAmficdthoSF0FFJ0nAZN/Aquila-Web-Designs?node-id=0%3
 
 The prototype was deployed via AWS Amplify. *IMPORTANT Use the Kovan Testnet and try out the MVP here: https://dev279.d2f0hxnzawfvgd.amplifyapp.com/  
 
-About Aquila
+About ~ Aquila
 Aquila is a trustless dapp for parametric forest fire insurance; there is no centralized intermediary that can interfere with the insurance contracts. Once a contract is deployed, it is guaranteed to payout the claim.
 
 
