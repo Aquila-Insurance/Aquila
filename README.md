@@ -1,5 +1,5 @@
 # Aquila-Deployed-Prototype
-The frontend for Aquila's Parametric Forest Fire Insurance Dapp was built with create-react-app, react-moralis, and moralis. Moralis was key to building the Dapp quickly, 
+The interface for Aquila's Parametric Forest Fire Insurance Dapp was built with create-react-app, react-moralis, and moralis. Moralis was key to building the Dapp quickly, 
 providing methods to authenticate the user, to store the user's property coodinates in the database, and to complete payment of the insurance premium. 
 
 The designs for the frontend were made in Adobe Illustrator and Figma. View designs in Figma here: 
@@ -8,7 +8,7 @@ https://www.figma.com/file/xXAmficdthoSF0FFJ0nAZN/Aquila-Web-Designs?node-id=0%3
 The prototype was deployed via AWS Amplify. *IMPORTANT Use the Kovan Testnet and try out the MVP here: https://dev279.d2f0hxnzawfvgd.amplifyapp.com/  
 
 About ~ 
-Aquila is a trustless dapp for parametric forest fire insurance; there is no centralized intermediary that can interfere with the insurance contracts. Once a contract is deployed, it is guaranteed to payout the claim.
+Aquila is a trustless Dapp for parametric forest fire insurance; there is no centralized intermediary that can interfere with the insurance contracts. Once a contract is deployed, it is guaranteed to payout the claim.
 
 
 Harnessing the unique properties of blockchain is what makes this emerging sector of insurance so unique. Blockchains are tamperproof, immutable environments, leaving security as a fundamental component built into the core.
