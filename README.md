@@ -5,7 +5,7 @@ providing methods to authenticate the user, to store the user's property coodina
 The designs for the frontend were made in Adobe Illustrator and Figma. View designs in Figma here: 
 https://www.figma.com/file/xXAmficdthoSF0FFJ0nAZN/Aquila-Web-Designs?node-id=0%3A1
 
-The prototype is deployed via AWS Amplify. *IMPORTANT Use the Kovan Testnet and try out the MVP here: https://dev279.d2f0hxnzawfvgd.amplifyapp.com/  On the last step, wait less than a minute and JSON tx data is returned to the viewport.
+The prototype is deployed via AWS Amplify. *IMPORTANT Use the Kovan Testnet with Metamask and try out the MVP here: https://dev279.d2f0hxnzawfvgd.amplifyapp.com/  On the last step, wait less than a minute and JSON tx data is returned to the viewport.
 
 About ~ 
 Aquila is a trustless Dapp for parametric forest fire insurance; there is no centralized intermediary that can interfere with the insurance contracts. Once a contract is deployed, it is guaranteed to payout the claim.
